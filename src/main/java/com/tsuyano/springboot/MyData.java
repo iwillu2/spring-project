@@ -61,6 +61,7 @@ public class MyData {
 	}
 	public void setMemo(String memo) {
 		this.memo = memo;
+		this.memo = memo;
 	}
 }
 
